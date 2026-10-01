@@ -249,21 +249,21 @@ Send the JSON request shown above.
 
 ## 📸 Project Screenshots
 
-### Postman — Create Order
+### 1. Postman — Create Order
 
-*Add Postman screenshot here.*
+![Postman Order API](screenshots/Postman-order.png)
 
-### MySQL — Saved Order
+### 2. Logs — Logging
 
-*Add database screenshot here.*
+![Logs](screenshots/Logs.png)
 
-### Generated Invoice PDF
+### 3. Generated Invoice PDF
 
-*Add invoice PDF screenshot here.*
+![Invoice PDF](screenshots/Invoice.png)
 
-### Email With Invoice Attachment
+### 4. Email With Invoice Attachment
 
-*Add received email screenshot here.*
+![Invoice Email](screenshots/Email.png)
 
 ## 🎯 What I Learned
 
